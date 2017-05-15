@@ -40,7 +40,10 @@
   border-collapse: collapse;
 }
 
-th, td{
+th{
+  border: 1px solid lightcoral;
+}
+td{
   border: 1px solid lightcoral;
 }
 
@@ -53,7 +56,10 @@ caption{
   background-color: lightyellow;
 }
 
-thead th, tfoot th{
+thead th{
+  background-color: white;
+}
+tfoot th{
   background-color: white;
 }
 
