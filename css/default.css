@@ -1,3 +1,8 @@
+.photo{
+  float: left;
+  margin-right: 30px;
+}
+
 .explanation{
   float: left;
   }
