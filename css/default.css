@@ -28,17 +28,17 @@
 }
 
 .btn-submit{
-  background-color: lightblue;
+  background-color: blue;
 }
 
 .btn-reset{
-  background-color: yellowgreen;
+  background-color: green;
 }
 
 #ingredient{
-  border: 3px solid laightgreen;
+  border: 3px solid green;
 }
 
 th, td{
-  border: 2px solid lightgreen;
+  border: 2px solid green;
 }
